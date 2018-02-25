@@ -1,0 +1,24 @@
+p
+{
+	color: red;
+}
+
+#footer
+{
+	text-align: center;
+	display: block;
+	font-family: Arial, monospace;
+	font-size: 10 pt;
+}
+/*This id was used for internal link*/
+#top 
+{
+	text-align: center;
+}
+
+#fineprint
+{
+	display: block;
+	font-size: 5 pt;
+	color: rgba(51, 51, 255, 0.6);
+}
