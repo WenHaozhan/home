@@ -15,10 +15,14 @@ p
 {
 	text-align: center;
 }
-
-#fineprint
+/*I called the class fineprint because i put them as disclaimers*/
+.fineprint
 {
-	display: block;
 	font-size: 5 pt;
 	color: rgba(51, 51, 255, 0.6);
+}
+
+.image
+{
+	font-size: 5pt;
 }
